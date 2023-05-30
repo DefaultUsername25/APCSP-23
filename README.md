@@ -1,2 +1,2 @@
 # APCSP-23
-erwrtewer
+APCSP final project with shrt descriptions of my academics and extracurriculars
