@@ -1,2 +1,2 @@
 # APCSP-23
-APCSP final project with shrt descriptions of my academics and extracurriculars
+APCSP final project with short descriptions of my academics and extracurriculars
